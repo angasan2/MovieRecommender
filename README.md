@@ -1,2 +1,7 @@
-# MovieRecommender
-Movie recommender application created using Python 
+# Recommender
+This is a Recommender
+
+### Usage
+```bash
+python recommender.py
+```
